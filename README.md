@@ -14,7 +14,7 @@ This project is a simple PyQt5 application that includes a calculator and a text
 ## Usage
 1. Run the application using the command:
    ```bash
-   python test3.py
+   python Appfuse.py
    ```
 2. Choose between the Calculator and Text Editor by clicking the respective buttons.
 
